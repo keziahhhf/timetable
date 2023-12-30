@@ -15,7 +15,7 @@ Execute the program
 
 # CODE
 
-'''
+```
 <<html>
 
 <head>
@@ -204,7 +204,8 @@ I
 </body>
 
 </html>
-'''
+```
+
 
 # OUPUT
 ![screenshot(5)](https://github.com/keziahhhf/timetable/assets/155235704/0e04a3a2-01c3-4a99-a3bd-c330f2742839)
