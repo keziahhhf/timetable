@@ -210,4 +210,6 @@ I
 # OUPUT
 ![screenshot(5)](https://github.com/keziahhhf/timetable/assets/155235704/0e04a3a2-01c3-4a99-a3bd-c330f2742839)
 
+#RESULT
+The program for creating slot timetable using basic HTML tags is executed successfully.
 
